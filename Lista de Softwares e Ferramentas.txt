@@ -1,0 +1,14 @@
+Visual Programming Language
+--BLOCKY
+  https://blockly-demo.appspot.com
+
+Auxiliadores de Transcrição
+--Javascript to C transcript(https://github.com/andrei-markeev/ts2c)
+--Javascript to C++ transcript(https://github.com/fabiosantoscode/js2cpp)
+
+
+Ferramenta de Visualização de Estrutura de Dados
+--JSAV
+  http://jsav.io
+--Visualgo
+  https://visualgo.net/en/
